@@ -1,1 +1,0 @@
-# DOCUMENTACION_TECNICA_GestorAcademicoWeb
